@@ -86,14 +86,3 @@ class Song
 
 
 end
-
-# p song1 = Song.new_by_name("ShalvaNewByName")
-# p song2 = Song.create_by_name("CreatedByName")
-# p song3 = Song.new_by_name("AnotherOneNewByName")
-# p song4 = Song.create_by_name("CreatedByDust")
-# p Song.all
-
-# s1 = Song.new_from_filename("Taylor Swift - Blank Space.mp3")
-#p s1.name
-#p s1.artist_name
-# song.artist_name #=> "Taylor Swift"
